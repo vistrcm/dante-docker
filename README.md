@@ -1,2 +1,2 @@
 # dante-docker
-dante socks server in docker
+[dante](https://www.inet.no/dante/) socks server in docker.
